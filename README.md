@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with Work, Mentorship.<br>🌱 I’m currently building teleoperated hand gripper.<br>💬 Ask me about Robotics and Food.<br>⚡ I love cats.
+🤝 I’m looking for Work, Mentorship.<br>🌱 Currently building Bilateral teleoperated hand gripper.<br>💬 Ask me about Robotics and Food.<br>⚡ I love cats.
 
 
 ## 🌐 Socials:
